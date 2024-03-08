@@ -1,7 +1,6 @@
-Author: Imix-Dkz <imix.icm@gmail.com>
-Date:   Thu Mar 7 18:51:56 2024 -0600
+# [Curso Laravel 10, API Rest]
+###### Author: Imix-Dkz, Date:   Thu Mar 7 18:51:56 2024 -0600
 
-    [Curso Laravel 10, API Rest]
     Este será un proyecto para generar para backend una API-Rest con laravel y MySQL
     Contendrá un ejemplo de CRUD y viene de base de ejemplo del vídeo...
      * "Backend con Laravel 10 Php 8 + CRUD API REST + MySQL"
