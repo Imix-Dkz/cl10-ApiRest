@@ -1,11 +1,15 @@
 # [Curso Laravel 10, API Rest]
 ###### Author: Imix-Dkz, Date:   Thu Mar 7 18:51:56 2024 -0600
 
-    Este será un proyecto para generar para backend una API-Rest con laravel y MySQL
-    Contendrá un ejemplo de CRUD y viene de base de ejemplo del vídeo...
-     * "Backend con Laravel 10 Php 8 + CRUD API REST + MySQL"
-     * https://www.youtube.com/watch?v=pC-XiJxYx08
-     * Del Canal "tutofox"
+Este será un proyecto para generar para backend una API-Rest con laravel y MySQL
+Contendrá un ejemplo de CRUD y viene de base de ejemplo del vídeo...
+* "Backend con Laravel 10 Php 8 + CRUD API REST + MySQL"
+* https://www.youtube.com/watch?v=pC-XiJxYx08
+* Del Canal "tutofox"
+* Tambien tiene un [artículo en su blog](https://www.tutofox.com/laravel/backend-con-laravel-10-php-8-crud-api-rest-mysql/) al respecto
+
+La principal diferencia con el ejemplo del vídeo oroginal es que se tiene planeado que el proyecto que se termine subiendo a GIT, aproveche todas las funcionalidades que puede ofrecer laravel, por ejemplo, que la BD comience con todo lo necesario, gracias a los factorys y seeders...
+_[Pendiente de integración]_
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 

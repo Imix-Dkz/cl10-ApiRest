@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+#Workspace
+cl10-ApiRest.code-workspace
+.gitignore
